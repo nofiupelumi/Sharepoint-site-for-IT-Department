@@ -63,6 +63,8 @@ The Help Desk page features a Microsoft Form to collect IT support queries from 
 The About Us page provides information about the IT department, including its mission, vision, and key personnel.
 
 ## Automation Details
+![Automation Details](images-Automation.png)
+
 
 The Money Request page uses Power Automate to handle the approval process:
 1. The request is sent to the IT Supervisor.
