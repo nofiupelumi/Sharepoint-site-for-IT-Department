@@ -67,9 +67,8 @@ The About Us page provides information about the IT department, including its mi
 
 
 The Money Request page uses Power Automate to handle the approval process:
-1. The request is sent to the IT Supervisor.
-2. If approved, it moves to the Operations Manager.
-3. If further approved, it moves to the Accountant for payout.
+1. The request is sent to the Accountant.
+3. If approved, it notifies the requester.
 4. If rejected at any step, the requester is notified with the rejection details.
 
 ## Contact
