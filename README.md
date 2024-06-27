@@ -70,6 +70,8 @@ The Money Request page uses Power Automate to handle the approval process:
 1. The request is sent to the Accountant.
 3. If approved, it notifies the requester.
 4. If rejected at any step, the requester is notified with the rejection details.
+#### For more Details 
+[Money-Request-Automation](https://github.com/nofiupelumi/Power-Automation-Money-Request-Automation/tree/main)
 
 ## Contact
 
