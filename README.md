@@ -33,31 +33,32 @@ The Home page provides a brief overview of the site, recent announcements, and q
 
 ### Team Directory
 
-![Team Directory](images/team_directory.png)
+![Team Directory](images-team-directory.png)
 
 The Team Directory lists all IT department members, including their names, roles, and contact details.
 
 ### Knowledge Base
 
-![Knowledge Base](images/knowledge_base.png)
+![Knowledge Base](images-knowledge-base.png)
 
 The Knowledge Base contains important documents, guides, and articles to assist IT staff in their daily tasks.
 
 ### Money Request
 
-![Money Request](images/money_request.png)
+![Money Request](images-money-request.png)
 
 The Money Request page allows employees to submit requests for funds. This process is automated using Power Automate to streamline approvals and tracking.
 
 ### Help Desk
 
-![Help Desk](images/help_desk.png)
+![Help Desk](images-help-desk.png)
+![Help Deskform](images-help-deskform.png)
 
 The Help Desk page features a Microsoft Form to collect IT support queries from employees. These queries are managed and responded to by the IT support team.
 
 ### About Us
 
-![About Us](images/about_us.png)
+![About Us](images-about-us.png)
 
 The About Us page provides information about the IT department, including its mission, vision, and key personnel.
 
@@ -71,4 +72,4 @@ The Money Request page uses Power Automate to handle the approval process:
 
 ## Contact
 
-For any questions or issues regarding the IT Department SharePoint site, please contact the IT support team at [it-support@example.com](mailto:it-support@example.com).
+For any questions or issues regarding the IT Department SharePoint site, please contact the IT support team at [it-support@RCS.com](mailto:it-support@RCS.com).
