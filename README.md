@@ -27,7 +27,7 @@ The IT Department SharePoint site includes the following pages:
 
 ### Home
 
-![Home Page](images:home_page.png)
+![Home Page](images-home-page.png)
 
 The Home page provides a brief overview of the site, recent announcements, and quick links to other pages.
 
