@@ -1,8 +1,8 @@
 # Sharepoint-site-for-IT-Department
-Description: Documentation and resources for the IT Department SharePoint site at Risk Control Service, including site structure, automation details, and page images.
+Description: Documentation and resources for the IT Department SharePoint site, including site structure, automation details, and page images.
 # IT Department SharePoint Site
 
-Welcome to the IT Department SharePoint site repository for Risk Control Service. This repository contains documentation and resources related to the SharePoint site, including the site structure, automation workflows, and images of each page.
+Welcome to the IT Department SharePoint site repository. This repository contains documentation and resources related to the SharePoint site, including the site structure, automation workflows, and images of each page.
 
 ## Repository Contents
 
@@ -75,4 +75,4 @@ The Money Request page uses Power Automate to handle the approval process:
 
 ## Contact
 
-For any questions or issues regarding the IT Department SharePoint site, please contact the IT support team at [it-support@RCS.com](mailto:it-support@RCS.com).
+For any questions or issues regarding the IT Department SharePoint site, don't hesitate to get in touch with the IT support team at [it-support@IT.com].
